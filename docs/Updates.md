@@ -4,4 +4,4 @@ Made the Website more Pro
   -> Turned the footer in a Cookie Banner
 Learned how branches and pull requests work.
 
-**AMOGUS**
+Resolution: 600x400
